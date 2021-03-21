@@ -10,4 +10,5 @@ Hello, This github repository is an introduction to python. I hope you like it a
 
 4️⃣)Input, OOP(Object Oriented Programming), Classes
 
-Resources: https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb, https://github.com/emrealkaya/python-exercises, w3schools, 
+Resources: https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb, https://github.com/emrealkaya/python-exercises, w3schools, Mustafa Murat Coşkun:https://www.udemy.com/share/101W9aBUoSdl5WQno=/, http://github.com - automatic!
+[GitHub](http://github.com)
