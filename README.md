@@ -9,3 +9,5 @@ Hello, This github repository is an introduction to python. I hope you like it a
 3️⃣)For and while loop, functions
 
 4️⃣)Input, OOP(Object Oriented Programming), Classes
+
+Resources: https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb, https://github.com/emrealkaya/python-exercises, w3schools, 
