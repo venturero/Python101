@@ -14,4 +14,6 @@ Hello, This github repository is an introduction to python. I hope you like it a
 
 6️⃣)Overriding, Super function, More method, Football team example for class
 
+7️⃣)Files(open, close, write, edit etc.)
+
 Resources: [Doğancan Mavideniz](https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb), [Emre Alkaya](https://github.com/emrealkaya/python-exercises), [w3schools](https://www.w3schools.com/), [Mustafa Murat Coşkun](https://www.udemy.com/share/101W9aBUoSdl5WQno=/), [GitHub](http://github.com), [Python official website](https://www.python.org/), [turkish](https://python-istihza.yazbel.com/)
