@@ -32,14 +32,27 @@ worksheet = workbook.add_worksheet()
 worksheet.write("A1", "Names")
 worksheet.write("B1", "Surnames")
 worksheet.write("C1", "Ages")
-y = 0
-while x ==0:
-    worksheet.write("A2", names[y])
-    worksheet.write("B2", surnames[y])
-    worksheet.write("C2", ages[y])
-    y+=1
-    x-=1
 
+for item in range(len(names)):
+    worksheet.write(item+1, 0, names[item])
+    worksheet.write(item+1, 1, surnames[item])
+    worksheet.write(item + 1, 2, ages[item])
+"""
+for item in range(len(names)):
+    worksheet.write(item+1, 0, names[item])
+for item in range(len(surnames)):
+    worksheet.write(item+1, 1, surnames[item])
+for item in range(len(ages)):
+    worksheet.write(item+1, 2, ages[item])"""
+"""y = 0
+z=2
+while x ==y:
+    worksheet.write("A{}".format(z), names[y])
+    worksheet.write("B2{}".format(z), surnames[y])
+    worksheet.write("C2{}".format(z), ages[y])
+    print(y)
+    y+=1
+"""
 
 workbook.close()
 
