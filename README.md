@@ -2,25 +2,25 @@
 
 Hello, This github repository is an introduction to python. I hope you like it and use in your coding exercises. Python 3.6.11 and anaconda environment is used in this repo. However most probably it will work in other versions as well. I will contribute it for at least 30 days. Topics are:
 
-1️⃣)Print, Data types and math operators 
+1️⃣)[Print, Data types and math operators](https://github.com/semiventurero/Python101/blob/main/python101-day1.ipynb) 
 
-2️⃣)Type conversion, Complex numbers, List, Dictionary(dict), Tuple, Set, If, elif, else statements🤠
+2️⃣)[Type conversion, Complex numbers, List, Dictionary(dict), Tuple, Set, If, elif, else statements](https://github.com/semiventurero/Python101/blob/main/python101-day2.ipynb)
 
-3️⃣)For and while loop, functions
+3️⃣)[For and while loop, functions](https://github.com/semiventurero/Python101/blob/main/python101-day3.ipynb)
 
-4️⃣)Input, OOP(Object Oriented Programming), Classes
+4️⃣)[Input, OOP(Object Oriented Programming), Classes](https://github.com/semiventurero/Python101/blob/main/python101-day4.ipynb)
 
-5️⃣)Inheritance, try/except, enumerate
+5️⃣)[Inheritance, try/except, enumerate](https://github.com/semiventurero/Python101/blob/main/python101-day5.ipynb)
 
-6️⃣)Overriding, Super function, More method, Football team example for class
+6️⃣)[Overriding, Super function, More method, Football team example for class](https://github.com/semiventurero/Python101/blob/main/python101-day6.ipynb)
 
-7️⃣)Files(open, close, write, read)
+7️⃣)[Files(open, close, write, read)](https://github.com/semiventurero/Python101/blob/main/python101-day7.ipynb)
 
-8️⃣)Files(advanced)
+8️⃣)[Files(advanced)](https://github.com/semiventurero/Python101/blob/main/python101-day8.ipynb)
 
-9️⃣)Writing on excel file
+9️⃣)Writing on excel file [1](https://github.com/semiventurero/Python101/blob/main/python101-day9.1.py),[2],(https://github.com/semiventurero/Python101/blob/main/python101-day9.2.py)
 
-🔟)Writing on excel file(formulas)
+🔟)[Writing on excel file(formulas)](https://github.com/semiventurero/Python101/blob/main/python101-day10.py)
 
 11)Writing on excel file(painting, to_excel, delete,...)
 
