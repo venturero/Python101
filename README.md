@@ -26,8 +26,9 @@ Hello, This github repository is an introduction to python. I hope you like it a
 
 11)[Writing on excel file(painting)](https://github.com/semiventurero/Python101/blob/main/python101-day11.py), [11.2-hide](https://github.com/semiventurero/Python101/blob/main/python101-day11.2.py)
 
-##Python packages
-12)Numpy
+## Python packages
+
+12)[Numpy](https://github.com/semiventurero/Python101/blob/main/python101-day12.ipynb)
 
 13)Pandas
 
