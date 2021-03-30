@@ -18,7 +18,7 @@ Hello, This github repository is an introduction to python. I hope you like it a
 
 8️⃣)[Files(advanced)](https://github.com/semiventurero/Python101/blob/main/python101-day8.ipynb)
 
-##Excel
+## Excel
 
 9️⃣)Writing on excel file(xlsxwriter) [1](https://github.com/semiventurero/Python101/blob/main/python101-day9.1.py),[2](https://github.com/semiventurero/Python101/blob/main/python101-day9.2.py)
 
