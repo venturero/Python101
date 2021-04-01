@@ -34,7 +34,7 @@ Hello, This github repository is an introduction to python. I hope you like it a
 ## Pandas
 13)[Pandas](https://github.com/semiventurero/Python101/blob/main/python101-day13.ipynb)
 
-14)Simple data analysis
+14)[Simple data analysis](https://github.com/semiventurero/Python101/blob/main/python101-day14.ipynb)
 
 15)Visualization(matplotlib, seaborn)
 
