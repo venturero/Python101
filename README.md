@@ -1,5 +1,4 @@
-# Python101🐍
-
+# Python101
 Hello, This github repository is an introduction to python. I hope you like it and use in your coding exercises. Python 3.6.11 and anaconda environment is used in this repo. However most probably it will work in other versions as well. I will contribute it for at least 30 days. Topics are:
 
 1️⃣)[Print, Data types and math operators](https://github.com/semiventurero/Python101/blob/main/python101-day1.ipynb) 
@@ -36,6 +35,7 @@ Hello, This github repository is an introduction to python. I hope you like it a
 
 14)[Simple data analysis](https://github.com/semiventurero/Python101/blob/main/python101-day14.ipynb)
 
-15)Visualization(matplotlib, seaborn)
+## Matplotlib
+15)[Visualization with matplotlib(basic)](https://github.com/semiventurero/Python101/blob/main/python101-day15.ipynb)
 
-Resources: [stack overflow](https://stackoverflow.com/),[Doğancan Mavideniz](https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb), [Emre Alkaya](https://github.com/emrealkaya/python-exercises), [w3schools](https://www.w3schools.com/), [Mustafa Murat Coşkun](https://www.udemy.com/share/101W9aBUoSdl5WQno=/), [GitHub](http://github.com), [Python official website](https://www.python.org/), [turkish](https://python-istihza.yazbel.com/), [türkçekaynaklar](https://turkcekaynaklar.com/), [kaggle](http://kaggle.com/)
+Resources: [matplotlib](https://matplotlib.org/),[numpy](https://numpy.org/),[stack overflow](https://stackoverflow.com/),[Doğancan Mavideniz](https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb), [w3schools](https://www.w3schools.com/), [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama), [GitHub](http://github.com), [Python official website](https://www.python.org/), [turkish](https://python-istihza.yazbel.com/), [türkçekaynaklar](https://turkcekaynaklar.com/), [kaggle](http://kaggle.com/)
