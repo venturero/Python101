@@ -38,4 +38,6 @@ Hello, This github repository is an introduction to python. I hope you like it a
 ## Matplotlib
 15)[Visualization with matplotlib(basic)](https://github.com/semiventurero/Python101/blob/main/python101-day15.ipynb)
 
+16)Visualization with matplotlib
+
 Resources: [matplotlib](https://matplotlib.org/),[numpy](https://numpy.org/),[stack overflow](https://stackoverflow.com/),[Doğancan Mavideniz](https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb), [w3schools](https://www.w3schools.com/), [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama), [GitHub](http://github.com), [Python official website](https://www.python.org/), [turkish](https://python-istihza.yazbel.com/), [türkçekaynaklar](https://turkcekaynaklar.com/), [kaggle](http://kaggle.com/)
