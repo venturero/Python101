@@ -38,7 +38,7 @@ Hello, This github repository is an introduction to python. I hope you like it a
 ## Matplotlib
 15)[Visualization with matplotlib(1)](https://github.com/semiventurero/Python101/blob/main/python101-day15.ipynb)
 
-16)Visualization with matplotlib(2)
+16[)Visualization with matplotlib(2)](https://github.com/semiventurero/Python101/blob/main/python101-day16.ipynb),[resource](https://www.kaggle.com/subinium/simple-matplotlib-visualization-tips)
 
 17)Visualization
 
