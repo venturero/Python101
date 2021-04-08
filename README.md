@@ -40,6 +40,7 @@ Hello, This github repository is an introduction to python. I hope you like it a
 
 16[)Visualization with matplotlib(2)](https://github.com/semiventurero/Python101/blob/main/python101-day16.ipynb),[resource](https://www.kaggle.com/subinium/simple-matplotlib-visualization-tips)
 
+## Seaborn
 17)[Visualization](https://github.com/semiventurero/Python101/blob/main/python101-day17.ipynb), resources(kaggle notebooks): [1](https://www.kaggle.com/helgejo/an-interactive-data-science-tutorial),[2](https://www.kaggle.com/nareshbhat/outlier-the-silent-killer), [3](https://www.kaggle.com/granjithkumar/titanic-data-visualization-a-seaborn-approach), [4](https://www.kaggle.com/claraljm/titanic-data-visualization), [5](https://www.kaggle.com/joshuajhchoi/101-data-visualization-tips-for-titanic-beginners), [6](https://www.kaggle.com/subinium/awesome-visualization-with-titanic-dataset), [7](https://www.kaggle.com/nitindatta/first-kaggle-submission), [8](https://www.kaggle.com/subinium/matplotlib-conceptual-figure-basic-viz), [9](https://www.kaggle.com/joshuajhchoi/101-data-visualization-tips-for-titanic-beginners), [10](https://www.kaggle.com/alankritamishra/titaniceasyway2-0) 
 
 18)[Visualization(KDE plot, trendline and simple wordcloud)](https://github.com/semiventurero/Python101/blob/main/python101-day18.ipynb), resources: [1](https://www.kaggle.com/subinium/awesome-visualization-with-titanic-dataset) 
