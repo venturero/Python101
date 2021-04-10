@@ -45,6 +45,7 @@ Hello, This github repository is an introduction to python. I hope you like it a
 
 18)[Visualization(KDE plot, trendline and simple wordcloud)](https://github.com/semiventurero/Python101/blob/main/python101-day18.ipynb), resources: [1](https://www.kaggle.com/subinium/awesome-visualization-with-titanic-dataset) 
 
+## Wordcloud
 19)[Wordcloud](https://github.com/semiventurero/Python101/blob/main/python101-day19.ipynb), resources: [custom font](https://www.dafont.com/), [custom colors](https://amueller.github.io/word_cloud/auto_examples/a_new_hope.html), [custom colors2](https://towardsdatascience.com/create-word-cloud-into-any-shape-you-want-using-python-d0b88834bc32)
 
 
