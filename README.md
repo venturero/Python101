@@ -48,5 +48,7 @@ Hello, This github repository is an introduction to python. I hope you like it a
 ## Wordcloud
 19)[Wordcloud](https://github.com/semiventurero/Python101/blob/main/python101-day19.ipynb), resources: [custom font](https://www.dafont.com/), [custom colors](https://amueller.github.io/word_cloud/auto_examples/a_new_hope.html), [custom colors2](https://towardsdatascience.com/create-word-cloud-into-any-shape-you-want-using-python-d0b88834bc32)
 
+20)[Plotly](https://github.com/semiventurero/Python101/blob/main/python101-day20.ipynb), resources: [1](https://www.geeksforgeeks.org/pie-plot-using-plotly-in-python/), [2](https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners), [3](https://www.kaggle.com/masumrumi/a-statistical-analysis-ml-workflow-of-titanic), [4](https://stackoverflow.com/questions/52467562/how-to-make-countplot-in-plotly)
+
 
 Resources: [matplotlib](https://matplotlib.org/),[numpy](https://numpy.org/),[stack overflow](https://stackoverflow.com/),[Doğancan Mavideniz](https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb), [w3schools](https://www.w3schools.com/), [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama), [GitHub](http://github.com), [Python official website](https://www.python.org/), [turkish](https://python-istihza.yazbel.com/), [türkçekaynaklar](https://turkcekaynaklar.com/), [kaggle](http://kaggle.com/), [hackerrank](hackerrank.com)
