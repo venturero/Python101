@@ -17,7 +17,7 @@ Hello, This github repository is an introduction to python. I hope you like it a
 
 8️⃣)[Files(advanced)](https://github.com/semiventurero/Python101/blob/main/python101-day8.ipynb)
 
-## Python packages
+## Python libraries
 
 ## Xlsxwriter -Excel
 
