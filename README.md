@@ -54,6 +54,9 @@ Hello, This github repository is an introduction to python. I hope you like it a
 
 21)[Plotly to_html](https://github.com/semiventurero/Python101/blob/main/python101-day21.ipynb), [saving multiple plots into a single html](https://stackoverflow.com/questions/59868987/plotly-saving-multiple-plots-into-a-single-html)
 
+22)[Candlestick Charts](https://github.com/semiventurero/Python101/blob/main/python101-day22.ipynb), [resource](https://towardsdatascience.com/using-python-to-visualize-stock-data-to-candlestick-charts-e1a5b08c8e9c)
+
+
 ## Sckit-Learn
 
 Resources: [matplotlib](https://matplotlib.org/),[numpy](https://numpy.org/),[stack overflow](https://stackoverflow.com/),[Doğancan Mavideniz](https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb), [w3schools](https://www.w3schools.com/), [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama), [kaveai](https://github.com/kaveai), [Python official website](https://www.python.org/), [turkish](https://python-istihza.yazbel.com/), [türkçekaynaklar](https://turkcekaynaklar.com/), [kaggle](http://kaggle.com/), [hackerrank](hackerrank.com), [plotly](plotly.com/)
