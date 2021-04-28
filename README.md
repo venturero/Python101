@@ -62,4 +62,6 @@ This github repository is an introduction to python. I hope you like it and use 
 
 23[Scikit-Learn101](https://github.com/semiventurero/Python101/blob/main/python101-day23.ipynb), [resource](https://realpython.com/linear-regression-in-python/)
 
+24)[Multiple and polynomial linear regression with scikit-learn](https://github.com/semiventurero/Python101/blob/main/python101-day24.ipynb)
+
 Resources: [matplotlib](https://matplotlib.org/),[numpy](https://numpy.org/),[stack overflow](https://stackoverflow.com/),[Doğancan Mavideniz](https://github.com/mavideniz/Python101/blob/main/Python_Part1.ipynb), [w3schools](https://www.w3schools.com/), [Mustafa Murat Coşkun](https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama), [kaveai](https://github.com/kaveai), [Python official website](https://www.python.org/), [turkish](https://python-istihza.yazbel.com/), [türkçekaynaklar](https://turkcekaynaklar.com/), [kaggle](http://kaggle.com/), [hackerrank](hackerrank.com), [plotly](plotly.com/)
