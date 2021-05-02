@@ -60,7 +60,7 @@ This github repository is an introduction to python. I hope you like it and use 
 
 ## Scikit-Learn
 
-23[Scikit-Learn101](https://github.com/semiventurero/Python101/blob/main/python101-day23.ipynb), [resource](https://realpython.com/linear-regression-in-python/), [scikit learn tutorial](https://github.com/jakevdp/sklearn_tutorial)
+23)[Scikit-Learn101](https://github.com/semiventurero/Python101/blob/main/python101-day23.ipynb), [resource](https://realpython.com/linear-regression-in-python/), [scikit learn tutorial](https://github.com/jakevdp/sklearn_tutorial)
 
 24)[Multiple and polynomial linear regression with scikit-learn](https://github.com/semiventurero/Python101/blob/main/python101-day24.ipynb)
 
